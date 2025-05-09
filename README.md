@@ -17,7 +17,7 @@ Autonomous parking demands fine-grained steering control in tight spaces. Levera
   - Continuous-action SAC and PPO agents  
   - Custom reward function balancing collision avoidance, efficiency, and alignment  
 
-## ⚙️ What’s Here
+## ⚙️ What’s Expected
 
 - **Simulation**: Unity 3D car dynamics with steering constraints (Markov Decision Process)  
 - **Agents**: Modular SAC and PPO implementations in ML-Agents
