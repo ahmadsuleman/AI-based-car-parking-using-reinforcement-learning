@@ -27,7 +27,7 @@ Autonomous parking demands fine-grained steering control in tight spaces. Levera
 
 1. Clone this repo and enter the directory:  
    ```bash
-   git clone [https://github.com/your-username/parking-rl.git](https://github.com/eagle-Ji/AI-based-car-parking-using-reinforcement-learning)
+   git clone https://github.com/eagle-Ji/AI-based-car-parking-using-reinforcement-learning
 
 ![Car_Parking_Project](Car_Parking_Project.jpg)
 ![Experiments_Performed](Experiments_Performed.png)
