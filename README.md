@@ -23,4 +23,4 @@ To address this, RARLAP leverages deep reinforcement learning with structured re
 
 
 ## Project Strcture
-- Trainable Envs for windows and linux are provided 
+- A complete environment in inference mood is provided that can be run without any installations on linux. [https://github.com/ahmadsuleman/AI-based-car-parking-using-reinforcement-learning](https://github.com/ahmadsuleman/AI-based-car-parking-using-reinforcement-learning)
