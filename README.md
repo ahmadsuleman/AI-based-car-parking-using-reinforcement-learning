@@ -23,4 +23,7 @@ To address this, RARLAP leverages deep reinforcement learning with structured re
 
 
 ## Project Strcture
-- A complete environment in inference mood is provided that can be run without any installations on linux. [https://github.com/ahmadsuleman/AI-based-car-parking-using-reinforcement-learning](https://github.com/ahmadsuleman/AI-based-car-parking-using-reinforcement-learning)
+- Project Files contain the Prefeb for Unity Simulation
+- Related scripts are provided in the scripts folder
+- Pretrained weights for SAC and PPO along with training configuations are given with filenames SAC_MBR and PPO_MBR respectively.
+  
