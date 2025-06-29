@@ -6,7 +6,7 @@ A research-oriented implementation of deep reinforcement learning (RL) agents fo
 
 ## 🔍 Overview
 
-Autonomous parking demands fine-grained steering control in tight spaces. Leveraging a Unity 3D physics–based car model with differential-drive constraints, this project explores reward-augmented RL methods to guide vehicles smoothly into parking slots.
+This work introduces a novel framework called RARLAP (Reward-Augmented Reinforcement Learning for Autonomous Parking), developed to address the highly constrained and precision-critical task of autonomous vehicle parking. Parking is unlike other autonomous driving challenges—it requires fine-grained steering control, tight spatial awareness, and real-time adaptation to complex environments. Traditional rule-based or purely supervised methods often fall short in handling the dynamic, continuous control requirements of real-world parking scenarios.
 
 ## 🚧 Research in Progress
 
