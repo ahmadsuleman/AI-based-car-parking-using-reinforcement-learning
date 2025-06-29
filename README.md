@@ -20,3 +20,7 @@ To address this, RARLAP leverages deep reinforcement learning with structured re
 ---
 ![Car_Parking_Project](Car_Parking_Project.jpg)
 ![Inference](PPO-MBR_inference.gif)
+
+
+## Project Strcture
+- Trainable Envs for windows and linux are provided 
