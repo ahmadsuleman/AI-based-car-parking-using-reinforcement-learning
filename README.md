@@ -24,15 +24,18 @@ A high‐fidelity Unity‑based framework implementing reward‑augmented learni
 - Project Files: contain the Prefeb for Unity Simulation
 - Related scripts are provided in the scripts folder
 - Pretrained weights for SAC and PPO along with training configuations are given with filenames SAC_MBR and PPO_MBR respectively.
-
-## Cite 
-@misc{suleman2025rewardaugmentedreinforcementlearningcontinuous,
-      title={Reward-Augmented Reinforcement Learning for Continuous Control in Precision Autonomous Parking via Policy Optimization Methods}, 
-      author={Ahmad Suleman and Misha Urooj Khan and Zeeshan Kaleem and Ali H. Alenezi and Iqra Shabbir Sinem Coleri and Chau Yuen},
-      year={2025},
-      eprint={2507.19642},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2507.19642}, 
-}
   
+## Reference
+
+If you use this work, please cite it as:
+
+```bibtex
+@misc{suleman2025rewardaugmentedreinforcementlearningcontinuous,
+  title   = {Reward-Augmented Reinforcement Learning for Continuous Control in Precision Autonomous Parking via Policy Optimization Methods},
+  author  = {Ahmad Suleman and Misha Urooj Khan and Zeeshan Kaleem and Ali H. Alenezi and Iqra Shabbir and Sinem Coleri and Chau Yuen},
+  year    = {2025},
+  eprint  = {2507.19642},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url     = {https://arxiv.org/abs/2507.19642}
+}
