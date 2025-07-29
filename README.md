@@ -3,9 +3,7 @@
 
 ## Overview
 
-This work introduces a novel framework called **RARLAP** (Reward-Augmented Reinforcement Learning for Autonomous Parking), developed to address the highly constrained and precision-critical task of autonomous vehicle parking. Parking is unlike other autonomous driving challenges—it requires fine-grained steering control, tight spatial awareness, and real-time adaptation to complex environments. Traditional rule-based or purely supervised methods often fall short in handling the dynamic, continuous control requirements of real-world parking scenarios.
-
-To address this, RARLAP leverages deep reinforcement learning with structured reward augmentation and a custom Unity-based 3D simulation environment that is fully compatible with Unity ML-Agents.
+A high‐fidelity Unity‑based framework implementing reward‑augmented learning strategies for continuous‑control autonomous parking (AP). RARLAP enables rapid, safe, and adaptable policy optimization in tight spatial environments by structuring reward functions to guide exploration and convergence.
 
 ---
 
@@ -23,7 +21,7 @@ To address this, RARLAP leverages deep reinforcement learning with structured re
 
 
 ## Project Strcture
-- Project Files contain the Prefeb for Unity Simulation
+- Project Files: contain the Prefeb for Unity Simulation
 - Related scripts are provided in the scripts folder
 - Pretrained weights for SAC and PPO along with training configuations are given with filenames SAC_MBR and PPO_MBR respectively.
 
